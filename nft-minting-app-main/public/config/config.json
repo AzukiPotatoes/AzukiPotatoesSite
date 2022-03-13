@@ -3,8 +3,8 @@
   "SCAN_LINK": "https://etherscan.io/token/0xde69f084e4f18dfab9e1858273b1f4e366e4de4d",
   "NETWORK": {
     "NAME": "Ethereum",
-    "SYMBOL": "ETH",
-    "ID": 137
+    "SYMBOL": "Eth",
+    "ID": 1
   },
   "NFT_NAME": "AzukiPotatoes",
   "SYMBOL": "AZPOT",
